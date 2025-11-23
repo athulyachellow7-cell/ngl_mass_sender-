@@ -1,1 +1,1 @@
-# ngl_mass_sender-
+true
